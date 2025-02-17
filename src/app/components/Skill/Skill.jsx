@@ -1,12 +1,12 @@
 import React from "react";
 
-const Footer = () => {
+const Skill = () => {
 
     return(
         <div>
-            Footer
+            
         </div>
     )
 }
 
-export default Footer;
+export default Skill;

@@ -1,12 +1,12 @@
 import React from "react";
 
-const Port = () => {
+const Footer = () => {
 
     return(
         <div>
-            Port
+            
         </div>
     )
 }
 
-export default Port;
+export default Footer;

@@ -1,12 +1,12 @@
 import React from "react";
 
-const Intro = () => {
+const Port = () => {
 
     return(
         <div>
-            Intro
+            
         </div>
     )
 }
 
-export default Intro;
+export default Port;
